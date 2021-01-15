@@ -15,4 +15,4 @@ In this course I been introduce to various basic concepts about the Machine Lear
 <img src="Keval Rajpal - Intro to Machine Learning.png">
 
 ## Intermediate Machine Learning Certificate
-<img src="Keval Rajpal - Intermediate Machine Learning.png">
+<img src="Keval Rajpal - Intermediate Machine Learning.png"># test1
